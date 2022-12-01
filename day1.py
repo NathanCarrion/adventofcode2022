@@ -1,7 +1,7 @@
 from itertools import groupby
 
 # opens file and reads it
-f = open('C:\\Users\\ncarr\\OneDrive\\Desktop\\adventofcode2022\\p1.txt', 'r')
+f = open('p1.txt', 'r')
 content = f.read()
 # splits the file into a list
 numbers = content.splitlines()
